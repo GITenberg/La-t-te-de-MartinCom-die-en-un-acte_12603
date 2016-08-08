@@ -1,0 +1,48 @@
+_repo: La-t-te-de-MartinCom-die-en-un-acte_12603
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Barrière, Théodore
+    alias: Barriere, Theodore
+    birthdate: 1825
+    deathdate: 1877
+    gutenberg_agent_id: '4872'
+    url: http://www.gutenberg.org/2009/agents/4872
+  - agent_name: Decourcelle, Adrien
+    aliases:
+    - Decourcelle, Pierre Henri Adrien
+    - Decourcelle, A. (Adrien)
+    - Decourcelles, M. (Adrien)
+    birthdate: 1824
+    deathdate: 1892
+    gutenberg_agent_id: '4873'
+    url: http://www.gutenberg.org/2009/agents/4873
+  - agent_name: Grangé, Eugène
+    aliases:
+    - Baste, Pierre-Eugene
+    - Basté, Eugène Pierre
+    - Grange, Eugene
+    - Grangé, E. (Eugène)
+    - Basté, Pierre-Eugène
+    birthdate: 1810
+    deathdate: 1887
+    gutenberg_agent_id: '4871'
+    url: http://www.gutenberg.org/2009/agents/4871
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12603'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French drama (Comedy)'
+- GITenberg
+title: 'La tête de Martin
+
+  Comédie en un acte'
+url: http://www.gutenberg.org/ebooks/12603
