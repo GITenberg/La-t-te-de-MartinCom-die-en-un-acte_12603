@@ -1,5 +1,8 @@
 _repo: La-t-te-de-MartinCom-die-en-un-acte_12603
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Barrière, Théodore
@@ -29,6 +32,8 @@ creator:
     gutenberg_agent_id: '4871'
     url: http://www.gutenberg.org/2009/agents/4871
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12603#La-t-te-de-MartinCom-die-en-un-acte
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
